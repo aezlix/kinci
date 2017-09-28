@@ -1,6 +1,6 @@
 #include "PathFindManager.h"
 #include "../../Objects/Object.h"
-#include "../../Components/AI/PathFindNodeComponent.h"
+#include "../../Code/AI/ai.h"
 #include <algorithm>
 
 namespace star
