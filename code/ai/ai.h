@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
 #include "SearchCell.h"
-#include "../../Helpers/Singleton.h"
+#include "../helpers/Singleton.h"
 
 namespace star
 {
